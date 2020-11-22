@@ -34,14 +34,9 @@ Unicron offers:
 
 ### Links
 
-* [Invite the Bot](https://discord.com/oauth2/authorize?client_id=634908645896880128&scope=bot&permissions=285599830)
-* [Support Server](https://discord.gg/Pp9T2zS)
-* [Documentation](https://unicron.gitbook.io/docs) or [this]()
-* [Guide](https://unicron.gitbook.io/guide)
+* [Support Server](https://discord.gg/9X5DVWT)
 
 ### Installation
-
-If you don't want to edit the code of the bot, a permanent online version is available, which you can invite to your own Discord! [Invite Link](https://discord.com/oauth2/authorize?client_id=634908645896880128&scope=bot&permissions=285599830)
 
 If you want to edit the bot's code and host it on your machine, it's possible!
 
@@ -51,5 +46,4 @@ You must follow the [Installation Guide](docs/installation.md) to properly insta
 
 ## License
 
-> Unicron is licensed under the GNU GPL license. See the file [LICENSE](https://github.com/oadpoaw/unicron-bot/tree/6c975122a6b50ba1a0987885b47bc7f5a8d8d41e/LICENSE/README.md) for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
-
+> Unicron is licensed under the MIT license. See the file [LICENSE](LICENSE) for more information. If you plan to use any part of this source code in your own bot, I would be grateful if you would include some form of credit somewhere.
